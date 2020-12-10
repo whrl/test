@@ -19,7 +19,7 @@ References
 
     plot(cars)
 
-![](test_files/figure-markdown_strict/unnamed-chunk-1-1.png)
+![](unnamed-chunk-1-1.png)
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or
 by pressing *Ctrl+Alt+I*.
